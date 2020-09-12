@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17983" started-at="2020-09-10T22:48:28 EDT" finished-at="2020-09-10T22:48:46 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17983" started-at="2020-09-10T22:48:28 EDT" finished-at="2020-09-10T22:48:46 EDT">
+      <class name="testingjenkins.jenkinsclass">
+        <test-method status="PASS" signature="display()[pri:0, instance:testingjenkins.jenkinsclass@1efed156]" name="display" duration-ms="16477" started-at="2020-09-10T22:48:28 EDT" finished-at="2020-09-10T22:48:44 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testingjenkins.jenkinsclass@1efed156]" name="close" is-config="true" duration-ms="1444" started-at="2020-09-10T22:48:44 EDT" finished-at="2020-09-10T22:48:46 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testingjenkins.jenkinsclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
